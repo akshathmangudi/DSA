@@ -34,3 +34,9 @@
 # Other files
 *.cpp.un~
 *.cpp~
+
+# Folders
+.vs/
+.vscode/
+.git/
+sts3007/

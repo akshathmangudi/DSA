@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std; 
 
 // This is the first problem on LeetCode, Two Sum.

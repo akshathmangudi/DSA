@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std; 
 
 // This is the accepted code for Problem #217: Contains Duplicate
